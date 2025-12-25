@@ -11,7 +11,7 @@ Script Purpose:
 		Running this script will drop the entire 'Datawarehouse' database if it exists.
 		All data in the database will be permanently deleted. Proceed with caution and
 		ensure you have proper backups before running the script.
-	*/
+*/
 
 USE master;
 GO
