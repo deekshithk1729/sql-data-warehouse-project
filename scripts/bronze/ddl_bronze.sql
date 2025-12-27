@@ -56,7 +56,7 @@ CREATE TABLE bronze.crm_sales_details (
 );
 GO
 
-IF OBJECT_ID('bronze.erp_loac_a101','U') IS NOT NULL
+IF OBJECT_ID('bronze.erp_loc_a101','U') IS NOT NULL
 	DROP TABLE bronze.erp_loac_a101;
 GO
 
